@@ -1,4 +1,11 @@
 /**
+ * @author: ValentinTT
+ * @brief 2610. Convert an Array Into a 2D Array With Conditions
+ * @version 0.1
+ * @date 02-01-2023
+ */
+
+/**
  * @param {number[]} nums
  * @return {number[][]}
  */
