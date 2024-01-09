@@ -23,7 +23,8 @@ Each month will have its own folder with daily entries:
 - [x] [Day 5 - 300. Longest Increasing Subsequence (Medium)](./01-january/05-300-LongestIncreasingSubsequence.js)
 - [x] [Day 6 - 1235. Maximum Profit in Job Scheduling (Hard)](./01-january/06-1235-MaximumProfitInJobScheduling.js)
 - [x] [Day 7 - 446. Arithmetic Slices II - Subsequence (Hard)](./01-january/07-446-ArithmeticSlicesII-Subsequence.js)
-- [ ] [Day 8 - 938. Range Sum of BST (Easy)](./01-january/08-938-RangeSumOfBST)
+- [x] [Day 8 - 938. Range Sum of BST (Easy)](./01-january/08-938-RangeSumOfBST)
+- [x] [Day 9 - 872. Leaf-Similar Trees (Easy)](./01-january/09-872-Leaf-SimilarTrees.js)
 - [ ] [Day - ](./01-january/)
 
 ### [February](./02-february)
@@ -75,6 +76,14 @@ Each month will have its own folder with daily entries:
 #### Day 8: 938. Range Sum of BST
 
 - [link](https://leetcode.com/problems/range-sum-of-bst/)
+
+#### Day 9: 872. Leaf-Similar Trees
+
+- [link](https://leetcode.com/problems/leaf-similar-trees/)
+
+#### Day
+
+- [link]()
 </details>
 
 ## Additional Resources 📚
