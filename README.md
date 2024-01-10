@@ -25,6 +25,7 @@ Each month will have its own folder with daily entries:
 - [x] [Day 7 - 446. Arithmetic Slices II - Subsequence (Hard)](./01-january/07-446-ArithmeticSlicesII-Subsequence.js)
 - [x] [Day 8 - 938. Range Sum of BST (Easy)](./01-january/08-938-RangeSumOfBST)
 - [x] [Day 9 - 872. Leaf-Similar Trees (Easy)](./01-january/09-872-Leaf-SimilarTrees.js)
+- [x] [Day 10 - 2385. Amount of Time for Binary Tree to Be Infected (Medium)](./01-january/10-2385-AmountOfTimeForBinaryTreeToBeInfected.js)
 - [ ] [Day - ](./01-january/)
 
 ### [February](./02-february)
@@ -80,6 +81,12 @@ Each month will have its own folder with daily entries:
 #### Day 9: 872. Leaf-Similar Trees
 
 - [link](https://leetcode.com/problems/leaf-similar-trees/)
+
+#### Day 10: 2385. Amount of Time for Binary Tree to Be Infected
+
+- [link](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/)
+- Thoughts adn approach
+  The hardest problem I face so far, mainly because I have never seen the concept of BFS. I needed to see the solution but I study the concept, read a blog and a youtube video explaining it.
 
 #### Day
 
