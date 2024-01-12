@@ -26,7 +26,8 @@ Each month will have its own folder with daily entries:
 - [x] [Day 8 - 938. Range Sum of BST (Easy)](./01-january/08-938-RangeSumOfBST)
 - [x] [Day 9 - 872. Leaf-Similar Trees (Easy)](./01-january/09-872-Leaf-SimilarTrees.js)
 - [x] [Day 10 - 2385. Amount of Time for Binary Tree to Be Infected (Medium)](./01-january/10-2385-AmountOfTimeForBinaryTreeToBeInfected.js)
-- [ ] [Day 11 - 1026. Maximum Difference Between Node and Ancestor (Medium)](./01-january/11-1026-MaximumDifferenceBetweenNodeAndAncestor.js)
+- [x] [Day 11 - 1026. Maximum Difference Between Node and Ancestor (Medium)](./01-january/11-1026-MaximumDifferenceBetweenNodeAndAncestor.js)
+- [ ] [Day 12 - 1704. Determine if String Halves Are Alike (Easy) ](./01-january/12-1704-DetermineIfStringHalvesAreAlike.js)
 - [ ] [Day - ](./01-january/)
 
 ### [February](./02-february)
@@ -92,6 +93,10 @@ Each month will have its own folder with daily entries:
 #### Day 11: 1026. Maximum Difference Between Node and Ancestor
 
 - [link](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/)
+
+- #### Day 12: 1704. Determine if String Halves Are Alike
+
+- [link](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/)
 
 - #### Day
 
