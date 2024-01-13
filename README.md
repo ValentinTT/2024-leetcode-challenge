@@ -27,7 +27,8 @@ Each month will have its own folder with daily entries:
 - [x] [Day 9 - 872. Leaf-Similar Trees (Easy)](./01-january/09-872-Leaf-SimilarTrees.js)
 - [x] [Day 10 - 2385. Amount of Time for Binary Tree to Be Infected (Medium)](./01-january/10-2385-AmountOfTimeForBinaryTreeToBeInfected.js)
 - [x] [Day 11 - 1026. Maximum Difference Between Node and Ancestor (Medium)](./01-january/11-1026-MaximumDifferenceBetweenNodeAndAncestor.js)
-- [ ] [Day 12 - 1704. Determine if String Halves Are Alike (Easy) ](./01-january/12-1704-DetermineIfStringHalvesAreAlike.js)
+- [x] [Day 12 - 1704. Determine if String Halves Are Alike (Easy) ](./01-january/12-1704-DetermineIfStringHalvesAreAlike.js)
+- [x] [Day 13- 1347. Minimum Number of Steps to Make Two Strings Anagram (Medium)](./01-january/13-1347-MinimumNumberofStepstoMakeTwoStringsAnagram.js)
 - [ ] [Day - ](./01-january/)
 
 ### [February](./02-february)
@@ -98,6 +99,9 @@ Each month will have its own folder with daily entries:
 
 - [link](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/)
 
+- #### Day 13: 1347. Minimum Number of Steps to Make Two Strings Anagram
+
+- [link](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/)
 - #### Day
 
 - [link]()
