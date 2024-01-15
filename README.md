@@ -29,7 +29,8 @@ Each month will have its own folder with daily entries:
 - [x] [Day 11 - 1026. Maximum Difference Between Node and Ancestor (Medium)](./01-january/11-1026-MaximumDifferenceBetweenNodeAndAncestor.js)
 - [x] [Day 12 - 1704. Determine if String Halves Are Alike (Easy) ](./01-january/12-1704-DetermineIfStringHalvesAreAlike.js)
 - [x] [Day 13- 1347. Minimum Number of Steps to Make Two Strings Anagram (Medium)](./01-january/13-1347-MinimumNumberofStepstoMakeTwoStringsAnagram.js)
-- [ ] [Day 14- 1657. Determine if Two Strings Are Close (Medium)](./01-january/)
+- [ ] [Day 14- 1657. Determine if Two Strings Are Close (Medium)](./01-january/14-1657-DetermineifTwoStringsAreClose.js)
+- [ ] [Day 15- 2225. Find Players With Zero or One Losses (Medium)](./01-january/15-2225-FindPlayersWithZeroorOneLosses.js)
 - [ ] [Day - ](./01-january/)
 
 ### [February](./02-february)
@@ -107,6 +108,10 @@ Each month will have its own folder with daily entries:
 #### Day 14: 1657. Determine if Two Strings Are Close
 
 - [link](https://leetcode.com/problems/determine-if-two-strings-are-close/description/)
+
+#### Day 15: 2225. Find Players With Zero or One Losses
+
+- [link](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
 
 #### Day
 
