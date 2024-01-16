@@ -117,6 +117,8 @@ Each month will have its own folder with daily entries:
 #### Day 16: 380. Insert Delete GetRandom O(1)
 
 - [link](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
+- Thoughts adn approach
+  This problem was new in the way it was presented. I needed to see a solution to understand how to solve it. Then I applied a solution of my own.
 
 </details>
 
