@@ -32,6 +32,7 @@ Each month will have its own folder with daily entries:
 - [x] [Day 14 - 1657. Determine if Two Strings Are Close (Medium)](./01-january/14-1657-DetermineifTwoStringsAreClose.js)
 - [x] [Day 15 - 2225. Find Players With Zero or One Losses (Medium)](./01-january/15-2225-FindPlayersWithZeroorOneLosses.js)
 - [x] [Day 16 - 380. Insert Delete GetRandom O(1) (Medium)](<./01-january/16-380-InsertDeleteGetRandomO(1).js>)
+- [x] [Day 17 - 1207. Unique Number of Occurrences (Easy)](./01-january/17-1207-UniqueNumberofOccurrences.js)
 - [ ] [Day - ](./01-january/)
 
 ### [February](./02-february)
@@ -119,6 +120,14 @@ Each month will have its own folder with daily entries:
 - [link](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
 - Thoughts adn approach
   This problem was new in the way it was presented. I needed to see a solution to understand how to solve it. Then I applied a solution of my own.
+
+#### Day 17: 1207. Unique Number of Occurrences
+
+- [link](https://leetcode.com/problems/unique-number-of-occurrences/description/)
+
+#### Day
+
+- [link]()
 
 </details>
 
