@@ -33,6 +33,8 @@ Each month will have its own folder with daily entries:
 - [x] [Day 15 - 2225. Find Players With Zero or One Losses (Medium)](./01-january/15-2225-FindPlayersWithZeroorOneLosses.js)
 - [x] [Day 16 - 380. Insert Delete GetRandom O(1) (Medium)](<./01-january/16-380-InsertDeleteGetRandomO(1).js>)
 - [x] [Day 17 - 1207. Unique Number of Occurrences (Easy)](./01-january/17-1207-UniqueNumberofOccurrences.js)
+- [x] [Day 18 - 70. Climbing Stairs (Easy)](./01-january/18-70-ClimbingStairs.js)
+- [x] [Day 19 - 931. Minimum Falling Path Sum (Medium)](./01-january/19-931-MinimumFallingPathSum.js)
 - [ ] [Day - ](./01-january/)
 
 ### [February](./02-february)
@@ -124,6 +126,14 @@ Each month will have its own folder with daily entries:
 #### Day 17: 1207. Unique Number of Occurrences
 
 - [link](https://leetcode.com/problems/unique-number-of-occurrences/description/)
+
+#### Day 18: 70. Climbing Stairs
+
+- [link](https://leetcode.com/problems/climbing-stairs/description/)
+
+#### Day 19: 931. Minimum Falling Path Sum
+
+- [link](https://leetcode.com/problems/minimum-falling-path-sum/description/)
 
 #### Day
 
