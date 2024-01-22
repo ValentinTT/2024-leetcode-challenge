@@ -36,6 +36,7 @@ Each month will have its own folder with daily entries:
 - [x] [Day 18 - 70. Climbing Stairs (Easy)](./01-january/18-70-ClimbingStairs.js)
 - [x] [Day 19 - 931. Minimum Falling Path Sum (Medium)](./01-january/19-931-MinimumFallingPathSum.js)
 - [x] [Day 20 - 907. Sum of Subarray Minimums (Medium)](./01-january/20-907-SumofSubarrayMinimums.js)
+- [x] [Day 21 - 645. Set Mismatch (Easy)](./01-january/21-645-SetMismatch.js)
 - [ ] [Day - ](./01-january/)
 
 ### [February](./02-february)
@@ -139,6 +140,10 @@ Each month will have its own folder with daily entries:
 #### Day 20: 907. Sum of Subarray Minimums
 
 - [link](https://leetcode.com/problems/sum-of-subarray-minimums/description/)
+
+#### Day 21: 645. Set Mismatch
+
+- [link](https://leetcode.com/problems/set-mismatch/description/)
 
 #### Day
 
