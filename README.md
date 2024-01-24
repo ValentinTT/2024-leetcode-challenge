@@ -39,6 +39,7 @@ Each month will have its own folder with daily entries:
 - [x] [Day 21 - 198. House Robber (Medium)](./01-january/21-198-HouseRobber.js)
 - [x] [Day 22 - 645. Set Mismatch (Easy)](./01-january/22-645-SetMismatch.js)
 - [x] [Day 23 - 1239. Maximum Length of a Concatenated String with Unique Characters (Medium)](./01-january/23-1239-MaximumLengthofaConcatenatedStringwithUniqueCharacters.js)
+- [x] [Day 24 - 1457. Pseudo-Palindromic Paths in a Binary Tree (Medium)](./01-january/24-1457-Pseudo-PalindromicPathsinaBinaryTree.js)
 - [ ] [Day - ](./01-january/)
 
 ### [February](./02-february)
@@ -154,6 +155,10 @@ Each month will have its own folder with daily entries:
 #### Day 23: 1239. Maximum Length of a Concatenated String with Unique Characters
 
 - [link](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/)
+
+#### Day 24: 1457. Pseudo-Palindromic Paths in a Binary Tree
+
+- [link](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/)
 
 #### Day
 
