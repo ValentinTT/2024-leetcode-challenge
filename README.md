@@ -41,6 +41,7 @@ Each month will have its own folder with daily entries:
 - [x] [Day 23 - 1239. Maximum Length of a Concatenated String with Unique Characters (Medium)](./01-january/23-1239-MaximumLengthofaConcatenatedStringwithUniqueCharacters.js)
 - [x] [Day 24 - 1457. Pseudo-Palindromic Paths in a Binary Tree (Medium)](./01-january/24-1457-Pseudo-PalindromicPathsinaBinaryTree.js)
 - [x] [Day 25 - 1143. Longest Common Subsequence (Medium)](./01-january/25-1143-LongestCommonSubsequence.js)
+- [x] [Day 26 - 576. Out of Boundary Paths (Medium)](./01-january/26-576-OutofBoundaryPaths.js)
 - [ ] [Day - ](./01-january/)
 
 ### [February](./02-february)
@@ -164,6 +165,10 @@ Each month will have its own folder with daily entries:
 #### Day 25: 1143. Longest Common Subsequence
 
 - [link](https://leetcode.com/problems/longest-common-subsequence/description/)
+
+#### Day 26: 576. Out of Boundary Paths
+
+- [link](https://leetcode.com/problems/out-of-boundary-paths/description/)
 
 #### Day
 
