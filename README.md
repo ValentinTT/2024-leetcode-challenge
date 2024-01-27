@@ -42,6 +42,7 @@ Each month will have its own folder with daily entries:
 - [x] [Day 24 - 1457. Pseudo-Palindromic Paths in a Binary Tree (Medium)](./01-january/24-1457-Pseudo-PalindromicPathsinaBinaryTree.js)
 - [x] [Day 25 - 1143. Longest Common Subsequence (Medium)](./01-january/25-1143-LongestCommonSubsequence.js)
 - [x] [Day 26 - 576. Out of Boundary Paths (Medium)](./01-january/26-576-OutofBoundaryPaths.js)
+- [ ] [Day 27 - 629. K Inverse Pairs Array (Hard)](./01-january/27-629-KInversePairsArray.py)
 - [ ] [Day - ](./01-january/)
 
 ### [February](./02-february)
@@ -169,6 +170,12 @@ Each month will have its own folder with daily entries:
 #### Day 26: 576. Out of Boundary Paths
 
 - [link](https://leetcode.com/problems/out-of-boundary-paths/description/)
+
+#### Day 27: 629. K Inverse Pairs Array
+
+- [link](https://leetcode.com/problems/k-inverse-pairs-array/description/)
+- Thoughts adn approach
+  I couldn't figure it out, so I need a tutorial. Still don't get it completed
 
 #### Day
 
