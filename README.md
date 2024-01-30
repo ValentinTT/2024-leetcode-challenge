@@ -45,6 +45,7 @@ Each month will have its own folder with daily entries:
 - [ ] [Day 27 - 629. K Inverse Pairs Array (Hard)](./01-january/27-629-KInversePairsArray.py)
 - [x] [Day 28 - 1074. Number of Submatrices That Sum to Target (Hard)](./01-january/28-1074-NumberofSubmatricesThatSumtoTarget.js)
 - [x] [Day 29 - 232. Implement Queue using Stacks (Easy)](./01-january/29-232-ImplementQueueusingStacks.js). [In C](./01-january/29-232-ImplementQueueusingStacks.c)
+- [x] [Day 30 - 150. Evaluate Reverse Polish Notation (Medium)](./01-january/30-150-EvaluateReversePolishNotation.js)
 - [ ] [Day - ](./01-january/)
 
 ### [February](./02-february)
@@ -183,9 +184,13 @@ Each month will have its own folder with daily entries:
 
 - [link](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/)
 
-#### Day 232. Implement Queue using Stacks
+#### Day 29: 232. Implement Queue using Stacks
 
 - [link](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+
+#### Day 30: 150. Evaluate Reverse Polish Notation
+
+- [link](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 
 #### Day
 
