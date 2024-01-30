@@ -44,6 +44,7 @@ Each month will have its own folder with daily entries:
 - [x] [Day 26 - 576. Out of Boundary Paths (Medium)](./01-january/26-576-OutofBoundaryPaths.js)
 - [ ] [Day 27 - 629. K Inverse Pairs Array (Hard)](./01-january/27-629-KInversePairsArray.py)
 - [x] [Day 28 - 1074. Number of Submatrices That Sum to Target (Hard)](./01-january/28-1074-NumberofSubmatricesThatSumtoTarget.js)
+- [x] [Day 29 - 232. Implement Queue using Stacks (Easy)](./01-january/29-232-ImplementQueueusingStacks.js). [In C](./01-january/29-232-ImplementQueueusingStacks.c)
 - [ ] [Day - ](./01-january/)
 
 ### [February](./02-february)
@@ -181,6 +182,10 @@ Each month will have its own folder with daily entries:
 #### Day 28: 1074. Number of Submatrices That Sum to Target
 
 - [link](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/)
+
+#### Day 232. Implement Queue using Stacks
+
+- [link](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 
 #### Day
 
