@@ -50,17 +50,17 @@ Each month will have its own folder with daily entries:
 
 ### [February](./02-february)
 
-- [ ] Day 1 - Problem Name
-- [ ] Day 2 - Problem Name
-- [ ] ...
-- [ ] Day 28/29 - Problem Name (based on leap year)
+- [x] [Day 1 - 2966. Divide Array Into Arrays With Max Difference (Medium)](./02-february/01-2966-DivideArrayIntoArraysWithMaxDifference.js)
+- [] [Day 2](./02-february/)
+- [] [Day ](./02-february/)
 
 ## Entries 📅
 
-### January 🌨️
-
 <details>
 <summary>Expand to view daily challenges</summary>
+</details>
+
+### January 🌨️
 
 #### Day 1: 455. Assign Cookies
 
@@ -192,11 +192,39 @@ Each month will have its own folder with daily entries:
 
 - [link](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 
-#### Day 739. Daily Temperatures
+#### Day 31: 739. Daily Temperatures
 
 - [link](https://leetcode.com/problems/daily-temperatures/description/)
 
-</details>
+### February ❄️
+
+#### Day 1: 2966. Divide Array Into Arrays With Max Difference
+
+- [link](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)
+
+#### Day
+
+- [link]()
+
+### March 🌷
+
+### April 🌼
+
+### May 🌸
+
+### June ☀️
+
+### July 🌞
+
+### August 🌻
+
+### September 🍂
+
+### October 🍁
+
+### November 🍃
+
+### December 🎄
 
 ## Additional Resources 📚
 
