@@ -46,7 +46,7 @@ Each month will have its own folder with daily entries:
 - [x] [Day 28 - 1074. Number of Submatrices That Sum to Target (Hard)](./01-january/28-1074-NumberofSubmatricesThatSumtoTarget.js)
 - [x] [Day 29 - 232. Implement Queue using Stacks (Easy)](./01-january/29-232-ImplementQueueusingStacks.js). [In C](./01-january/29-232-ImplementQueueusingStacks.c)
 - [x] [Day 30 - 150. Evaluate Reverse Polish Notation (Medium)](./01-january/30-150-EvaluateReversePolishNotation.js)
-- [ ] [Day - ](./01-january/)
+- [x] [Day 31 - 739. Daily Temperatures (Medium)](./01-january/31-739-DailyTemperatures.js)
 
 ### [February](./02-february)
 
@@ -192,9 +192,9 @@ Each month will have its own folder with daily entries:
 
 - [link](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 
-#### Day
+#### Day 739. Daily Temperatures
 
-- [link]()
+- [link](https://leetcode.com/problems/daily-temperatures/description/)
 
 </details>
 
