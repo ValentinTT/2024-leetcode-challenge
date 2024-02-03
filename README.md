@@ -52,6 +52,7 @@ Each month will have its own folder with daily entries:
 
 - [x] [Day 1 - 2966. Divide Array Into Arrays With Max Difference (Medium)](./02-february/01-2966-DivideArrayIntoArraysWithMaxDifference.js)
 - [x] [Day 2 - 1291. Sequential Digits (Medium)](./02-february/02-1291-SequentialDigits.js)
+- [x] [Day 3 - 1043. Partition Array for Maximum Sum (Medium) [Feel it was hard]](./02-february/03-1043-PartitionArrayforMaximumSum.js)
 - [] [Day ](./02-february/)
 
 ## Entries 📅
@@ -205,6 +206,10 @@ Each month will have its own folder with daily entries:
 #### Day 2: 1291. Sequential Digits
 
 - [link](https://leetcode.com/problems/sequential-digits/description/)
+
+#### Day 3: 1043. Partition Array for Maximum Sum
+
+- [link](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 
 #### Day
 
