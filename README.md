@@ -54,6 +54,7 @@ Each month will have its own folder with daily entries:
 - [x] [Day 2 - 1291. Sequential Digits (Medium)](./02-february/02-1291-SequentialDigits.js)
 - [x] [Day 3 - 1043. Partition Array for Maximum Sum (Medium) [Feel it was hard]](./02-february/03-1043-PartitionArrayforMaximumSum.js)
 - [x] [Day 4 - 76. Minimum Window Substring (Hard)](./02-february/04-76-MinimumWindowSubstring.js)
+- [x] [Day 5 - 387. First Unique Character in a String (Easy) ](./02-february/05-387-FirstUniqueCharacterinaString.js)
 - [] [Day ](./02-february/)
 
 ## Entries 📅
@@ -215,6 +216,10 @@ Each month will have its own folder with daily entries:
 #### Day 4: 76. Minimum Window Substring
 
 - [link](https://leetcode.com/problems/minimum-window-substring/description/)
+
+#### Day 5: 387. First Unique Character in a String
+
+- [link](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
 #### Day
 
