@@ -63,7 +63,7 @@ Each month will have its own folder with daily entries:
 
 <summary>Expand to view daily challenges</summary>
 <details>
-### January 🌨️
+<h2>January 🌨️</h2>
 
 #### Day 1: 455. Assign Cookies
 
@@ -202,7 +202,7 @@ Each month will have its own folder with daily entries:
 </details>
 
 <details>
-### February ❄️
+<h2>February ❄️</h2>
 
 #### Day 1: 2966. Divide Array Into Arrays With Max Difference
 
