@@ -61,10 +61,8 @@ Each month will have its own folder with daily entries:
 
 ## Entries 📅
 
-<details>
 <summary>Expand to view daily challenges</summary>
-</details>
-
+<details>
 ### January 🌨️
 
 #### Day 1: 455. Assign Cookies
@@ -201,6 +199,9 @@ Each month will have its own folder with daily entries:
 
 - [link](https://leetcode.com/problems/daily-temperatures/description/)
 
+</details>
+
+<details>
 ### February ❄️
 
 #### Day 1: 2966. Divide Array Into Arrays With Max Difference
@@ -230,12 +231,12 @@ Each month will have its own folder with daily entries:
 #### Day 7: 451. Sort Characters By Frequency
 
 - [link](https://leetcode.com/problems/sort-characters-by-frequency/description/)
--
 
 #### Day
 
 - [link]()
 
+</details>
 ### March 🌷
 
 ### April 🌼
