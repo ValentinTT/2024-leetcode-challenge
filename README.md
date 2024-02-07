@@ -55,6 +55,8 @@ Each month will have its own folder with daily entries:
 - [x] [Day 3 - 1043. Partition Array for Maximum Sum (Medium) [Feel it was hard]](./02-february/03-1043-PartitionArrayforMaximumSum.js)
 - [x] [Day 4 - 76. Minimum Window Substring (Hard)](./02-february/04-76-MinimumWindowSubstring.js)
 - [x] [Day 5 - 387. First Unique Character in a String (Easy) ](./02-february/05-387-FirstUniqueCharacterinaString.js)
+- [x] [Day 6 - 49. Group Anagrams (Medium)](./02-february/06-49-GroupAnagrams.js)
+- [x] [Day 7 - 451. Sort Characters By Frequency (Medium)](./02-february/07-451-SortCharactersByFrequency.js)
 - [] [Day ](./02-february/)
 
 ## Entries 📅
@@ -220,6 +222,15 @@ Each month will have its own folder with daily entries:
 #### Day 5: 387. First Unique Character in a String
 
 - [link](https://leetcode.com/problems/first-unique-character-in-a-string/)
+
+#### Day 6: 49. Group Anagrams
+
+- [link](https://leetcode.com/problems/group-anagrams/description/)
+
+#### Day 7: 451. Sort Characters By Frequency
+
+- [link](https://leetcode.com/problems/sort-characters-by-frequency/description/)
+-
 
 #### Day
 
