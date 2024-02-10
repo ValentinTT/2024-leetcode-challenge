@@ -57,12 +57,16 @@ Each month will have its own folder with daily entries:
 - [x] [Day 5 - 387. First Unique Character in a String (Easy) ](./02-february/05-387-FirstUniqueCharacterinaString.js)
 - [x] [Day 6 - 49. Group Anagrams (Medium)](./02-february/06-49-GroupAnagrams.js)
 - [x] [Day 7 - 451. Sort Characters By Frequency (Medium)](./02-february/07-451-SortCharactersByFrequency.js)
+- [x] [Day 8 - 279. Perfect Squares (Medium)](./02-february/08-279-PerfectSquares.js)
+- [x] [Day 9 - 368. Largest Divisible Subset (Medium)](./02-february/09-368-LargestDivisibleSubset.js)
+- [x] [Day 10 - 647. Palindromic Substrings (Medium)](./02-february/)
 - [] [Day ](./02-february/)
 
 ## Entries 📅
 
 <summary>Expand to view daily challenges</summary>
 <details>
+<summary>January 🌨️</summary>
 <h2>January 🌨️</h2>
 
 #### Day 1: 455. Assign Cookies
@@ -202,6 +206,7 @@ Each month will have its own folder with daily entries:
 </details>
 
 <details>
+<summary>February ❄️</summary>
 <h2>February ❄️</h2>
 
 #### Day 1: 2966. Divide Array Into Arrays With Max Difference
@@ -232,30 +237,38 @@ Each month will have its own folder with daily entries:
 
 - [link](https://leetcode.com/problems/sort-characters-by-frequency/description/)
 
-#### Day
+#### Day 8: 279. Perfect Squares
 
-- [link]()
+- [link](https://leetcode.com/problems/perfect-squares/description/)
+
+#### Day 9: 368. Largest Divisible Subset
+
+- [link](https://leetcode.com/problems/largest-divisible-subset/description/)
+
+#### Day 10: 647. Palindromic Substrings
+
+- [link](https://leetcode.com/problems/palindromic-substrings/description/)
 
 </details>
-### March 🌷
+<h2> March 🌷 </h2>
 
-### April 🌼
+<h2> April 🌼 </h2>
 
-### May 🌸
+<h2> May 🌸 </h2>
 
-### June ☀️
+<h2> June ☀️ </h2>
 
-### July 🌞
+<h2> July 🌞 </h2>
 
-### August 🌻
+<h2> August 🌻 </h2>
 
-### September 🍂
+<h2> September 🍂 </h2>
 
-### October 🍁
+<h2> October 🍁 </h2>
 
-### November 🍃
+<h2> November 🍃 </h2>
 
-### December 🎄
+<h2> December 🎄 </h2>
 
 ## Additional Resources 📚
 
