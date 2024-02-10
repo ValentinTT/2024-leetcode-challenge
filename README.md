@@ -59,7 +59,7 @@ Each month will have its own folder with daily entries:
 - [x] [Day 7 - 451. Sort Characters By Frequency (Medium)](./02-february/07-451-SortCharactersByFrequency.js)
 - [x] [Day 8 - 279. Perfect Squares (Medium)](./02-february/08-279-PerfectSquares.js)
 - [x] [Day 9 - 368. Largest Divisible Subset (Medium)](./02-february/09-368-LargestDivisibleSubset.js)
-- [x] [Day 10 - 647. Palindromic Substrings (Medium)](./02-february/)
+- [x] [Day 10 - 647. Palindromic Substrings (Medium)](./02-february/10-647-PalindromicSubstrings.js)
 - [] [Day ](./02-february/)
 
 ## Entries 📅
