@@ -60,6 +60,7 @@ Each month will have its own folder with daily entries:
 - [x] [Day 8 - 279. Perfect Squares (Medium)](./02-february/08-279-PerfectSquares.js)
 - [x] [Day 9 - 368. Largest Divisible Subset (Medium)](./02-february/09-368-LargestDivisibleSubset.js)
 - [x] [Day 10 - 647. Palindromic Substrings (Medium)](./02-february/10-647-PalindromicSubstrings.js)
+- [x] [Day 11 - 1463. Cherry Pickup II (Hard) (Wasn't that hard)](./02-february/11-1463-CherryPickupII.ts)
 - [] [Day ](./02-february/)
 
 ## Entries 📅
@@ -248,6 +249,14 @@ Each month will have its own folder with daily entries:
 #### Day 10: 647. Palindromic Substrings
 
 - [link](https://leetcode.com/problems/palindromic-substrings/description/)
+
+#### Day 11: 1463. Cherry Pickup II
+
+- [link](https://leetcode.com/problems/cherry-pickup-ii/description/)
+
+#### Day
+
+- [link]()
 
 </details>
 <h2> March 🌷 </h2>
