@@ -61,6 +61,7 @@ Each month will have its own folder with daily entries:
 - [x] [Day 9 - 368. Largest Divisible Subset (Medium)](./02-february/09-368-LargestDivisibleSubset.js)
 - [x] [Day 10 - 647. Palindromic Substrings (Medium)](./02-february/10-647-PalindromicSubstrings.js)
 - [x] [Day 11 - 1463. Cherry Pickup II (Hard) (Wasn't that hard)](./02-february/11-1463-CherryPickupII.ts)
+- [x] [Day 12 - 169. Majority Element (Easy)](./02-february/12-169-MajorityElement.js)
 - [] [Day ](./02-february/)
 
 ## Entries 📅
@@ -113,7 +114,7 @@ Each month will have its own folder with daily entries:
 #### Day 10: 2385. Amount of Time for Binary Tree to Be Infected
 
 - [link](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/)
-- Thoughts adn approach
+- Thoughts and approach
   The hardest problem I face so far, mainly because I have never seen the concept of BFS. I needed to see the solution but I study the concept, read a blog and a youtube video explaining it.
 
 #### Day 11: 1026. Maximum Difference Between Node and Ancestor
@@ -139,7 +140,7 @@ Each month will have its own folder with daily entries:
 #### Day 16: 380. Insert Delete GetRandom O(1)
 
 - [link](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
-- Thoughts adn approach
+- Thoughts and approach
   This problem was new in the way it was presented. I needed to see a solution to understand how to solve it. Then I applied a solution of my own.
 
 #### Day 17: 1207. Unique Number of Occurrences
@@ -185,7 +186,7 @@ Each month will have its own folder with daily entries:
 #### Day 27: 629. K Inverse Pairs Array
 
 - [link](https://leetcode.com/problems/k-inverse-pairs-array/description/)
-- Thoughts adn approach
+- Thoughts and approach
   I couldn't figure it out, so I need a tutorial. Still don't get it completed
 
 #### Day 28: 1074. Number of Submatrices That Sum to Target
@@ -253,6 +254,12 @@ Each month will have its own folder with daily entries:
 #### Day 11: 1463. Cherry Pickup II
 
 - [link](https://leetcode.com/problems/cherry-pickup-ii/description/)
+
+#### Day 12: 169. Majority Element
+
+- [link](https://leetcode.com/problems/majority-element/description/)
+- Thoughts and aproach
+  I learnt about the boyer moore algorithm. Initially I could solve it with a hash map, but then understand the logic of the algorithm to solve it in O(1) space
 
 #### Day
 
