@@ -62,6 +62,7 @@ Each month will have its own folder with daily entries:
 - [x] [Day 10 - 647. Palindromic Substrings (Medium)](./02-february/10-647-PalindromicSubstrings.js)
 - [x] [Day 11 - 1463. Cherry Pickup II (Hard) (Wasn't that hard)](./02-february/11-1463-CherryPickupII.ts)
 - [x] [Day 12 - 169. Majority Element (Easy)](./02-february/12-169-MajorityElement.js)
+- [x] [Day 13 - 2108. Find First Palindromic String in the Array (Easy)](./02-february/13-2108-FindFirstPalindromicStringintheArray.js)
 - [] [Day ](./02-february/)
 
 ## Entries 📅
@@ -260,6 +261,10 @@ Each month will have its own folder with daily entries:
 - [link](https://leetcode.com/problems/majority-element/description/)
 - Thoughts and aproach
   I learnt about the boyer moore algorithm. Initially I could solve it with a hash map, but then understand the logic of the algorithm to solve it in O(1) space
+
+#### Day 12: 2108. Find First Palindromic String in the Array
+
+- [link](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)
 
 #### Day
 
