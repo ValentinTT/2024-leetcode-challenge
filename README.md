@@ -63,10 +63,13 @@ Each month will have its own folder with daily entries:
 - [x] [Day 11 - 1463. Cherry Pickup II (Hard) (Wasn't that hard)](./02-february/11-1463-CherryPickupII.ts)
 - [x] [Day 12 - 169. Majority Element (Easy)](./02-february/12-169-MajorityElement.js)
 - [x] [Day 13 - 2108. Find First Palindromic String in the Array (Easy)](./02-february/13-2108-FindFirstPalindromicStringintheArray.js)
+- [x] [Day 14 - 2149. Rearrange Array Elements by Sign (Medium)](./02-february/14-2149-RearrangeArrayElementsbySign.js)
+- [x] [Day 15 - 2971. Find Polygon With the Largest Perimeter (Medium)](./02-february/15-2971.FindPolygonWiththeLargestPerimeter.js)
 - [] [Day ](./02-february/)
 
 ## Entries 📅
 
+2971. Find Polygon With the Largest Perimeter
 <summary>Expand to view daily challenges</summary>
 <details>
 <summary>January 🌨️</summary>
@@ -262,9 +265,17 @@ Each month will have its own folder with daily entries:
 - Thoughts and aproach
   I learnt about the boyer moore algorithm. Initially I could solve it with a hash map, but then understand the logic of the algorithm to solve it in O(1) space
 
-#### Day 12: 2108. Find First Palindromic String in the Array
+#### Day 13: 2108. Find First Palindromic String in the Array
 
 - [link](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)
+
+#### Day 14: 2149. Rearrange Array Elements by Sign
+
+- [link](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
+
+#### Day 14: 2971. Find Polygon With the Largest Perimeter
+
+- [link](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/description/)
 
 #### Day
 
