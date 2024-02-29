@@ -65,11 +65,27 @@ Each month will have its own folder with daily entries:
 - [x] [Day 13 - 2108. Find First Palindromic String in the Array (Easy)](./02-february/13-2108-FindFirstPalindromicStringintheArray.js)
 - [x] [Day 14 - 2149. Rearrange Array Elements by Sign (Medium)](./02-february/14-2149-RearrangeArrayElementsbySign.js)
 - [x] [Day 15 - 2971. Find Polygon With the Largest Perimeter (Medium)](./02-february/15-2971.FindPolygonWiththeLargestPerimeter.js)
-- [] [Day ](./02-february/)
+- [x] [Day 16 - 1481. Least Number of Unique Integers after K Removals (Medium)](./02-february/16-1481-LeastNumberofUniqueIntegersafterKRemovals.js)
+- [x] [Day 17 - 1642. Furthest Building You Can Reach (Medium)](./02-february/17-1642-FurthestBuildingYouCanReach.js)
+- [x] [Day 18 - 2402. Meeting Rooms III (Hard)](./02-february/18-2402-MeetingRoomsIII.js)
+- [x] [Day 19 - 231. Power of Two (Easy)](./02-february/19-231-PowerofTwo.js)
+- [x] [Day 20 - 268. Missing Number (Easy)](./02-february/)
+- [x] [Day 21 - 201. Bitwise AND of Numbers Range (Medium)](./02-february/21-201-BitwiseANDofNumbersRange.js)
+- [x] [Day 22 - 997. Find the Town Judge (Easy)](./02-february/22-997-FindtheTownJudge.js)
+- [x] [Day 23 - 787. Cheapest Flights Within K Stops (Medium)](./02-february/23-787-CheapestFlightsWithinKStops.js)
+- [x] [Day 24 - 2092. Find All People With Secret (Hard)](./02-february/24-2092-FindAllPeopleWithSecret.js)
+- [x] [Day 25 - 2709. Greatest Common Divisor Traversal (Hard)](./02-february/25-2709-GreatestCommonDivisorTraversal.py)
+- [x] [Day 26 - 100. Same Tree](./02-february/26-100-SameTree.js)
+- [x] [Day 27 - 543. Diameter of Binary Tree (Easy)](./02-february/27-543-DiameterofBinaryTree.js)
+- [x] [Day 28 - 513. Find Bottom Left Tree Value (Medium)](./02-february/)
+- [x] [Day 29 - 1609. Even Odd Tree (Medium)](./02-february/29-1609-EvenOddTree.js)
+
+### [March](./03-march)
+
+- [] [Day ()](./03-march/)
 
 ## Entries 📅
 
-2971. Find Polygon With the Largest Perimeter
 <summary>Expand to view daily challenges</summary>
 <details>
 <summary>January 🌨️</summary>
@@ -273,16 +289,76 @@ Each month will have its own folder with daily entries:
 
 - [link](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
 
-#### Day 14: 2971. Find Polygon With the Largest Perimeter
+#### Day 15: 2971. Find Polygon With the Largest Perimeter
 
 - [link](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/description/)
+
+#### Day 16: 1481. Least Number of Unique Integers after K Removals
+
+- [link](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/)
+
+#### Day 17: 1642. Furthest Building You Can Reach
+
+- [link](https://leetcode.com/problems/furthest-building-you-can-reach/description/)
+
+#### Day 18: 2402. Meeting Rooms III
+
+- [link](https://leetcode.com/problems/meeting-rooms-iii/description/)
+
+#### Day 19: 231. Power of Two
+
+- [link](https://leetcode.com/problems/power-of-two/description/)
+
+#### Day 20: 268. Missing Number
+
+- [link](https://leetcode.com/problems/missing-number/description/)
+
+#### Day 21: 201. Bitwise AND of Numbers Range
+
+- [link](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
+
+#### Day 22: 997. Find the Town Judge
+
+- [link](https://leetcode.com/problems/find-the-town-judge/description/)
+
+#### Day 23: 787. Cheapest Flights Within K Stops
+
+- [link](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
+
+#### Day 24: 2092. Find All People With Secret
+
+- [link](https://leetcode.com/problems/find-all-people-with-secret/description/)
+
+#### Day 25: 2709. Greatest Common Divisor Traversal
+
+- [link](https://leetcode.com/problems/greatest-common-divisor-traversal/description/)
+
+#### Day 26: 100. Same Tree
+
+- [link](https://leetcode.com/problems/same-tree/description/)
+
+#### Day 27: 543. Diameter of Binary Tree
+
+- [link](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+
+#### Day 28: 513. Find Bottom Left Tree Value
+
+- [link](https://leetcode.com/problems/find-bottom-left-tree-value/description/)
+
+#### Day 29: 1609. Even Odd Tree
+
+- [link](https://leetcode.com/problems/even-odd-tree/description/)
+
+</details>
+
+<details>
+<summary>March 🌷</summary>
+<h2> March 🌷 </h2>
 
 #### Day
 
 - [link]()
-
 </details>
-<h2> March 🌷 </h2>
 
 <h2> April 🌼 </h2>
 
