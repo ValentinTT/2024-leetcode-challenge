@@ -82,6 +82,7 @@ Each month will have its own folder with daily entries:
 
 ### [March](./03-march)
 
+- [x] [Day 1 - 2864. Maximum Odd Binary Number (Easy)](./03-march/01-2864-MaximumOddBinaryNumber.js)
 - [] [Day ()](./03-march/)
 
 ## Entries 📅
@@ -355,9 +356,10 @@ Each month will have its own folder with daily entries:
 <summary>March 🌷</summary>
 <h2> March 🌷 </h2>
 
-#### Day
+#### Day 2864. Maximum Odd Binary Number
 
-- [link]()
+- [link](https://leetcode.com/problems/maximum-odd-binary-number/)
+
 </details>
 
 <h2> April 🌼 </h2>
