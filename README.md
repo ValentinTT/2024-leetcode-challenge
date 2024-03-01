@@ -10,6 +10,12 @@ Welcome to my LeetCode journey in 2024! This repository is dedicated to tracking
 - Document the thought process, approach, and problem's solution.
 - Maintain a log of progress and learnings throughout the year.
 
+## Badges
+
+![January](/badges/2024-01.gif)
+![February](/badges/2024-02.gif)
+![50 Days Streak](/badges/2024-50.gif)
+
 ## Structure 🏗️
 
 Each month will have its own folder with daily entries:
