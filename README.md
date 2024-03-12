@@ -13,14 +13,16 @@ Welcome to my LeetCode journey in 2024! This repository is dedicated to tracking
 ## Badges
 
 ![January](/badges/2024-01.gif)
-![February](/badges/2024-02.gif)
 ![50 Days Streak](/badges/2024-50.gif)
+![February](/badges/2024-02.gif)
 
 ## Structure 🏗️
 
 Each month will have its own folder with daily entries:
 
 ### [January](./01-january)
+
+<details>
 
 - [x] [Day 1 - 455. Assign Cookies (Easy)](./01-january/01-455-AssignCookies.js)
 - [x] [Day 2 - 2610. Convert an Array Into a 2D Array With Conditions (Medium)](./01-january/02-2610-ConvertAnArrayIntoA2DArrayWithConditions.js)
@@ -54,7 +56,11 @@ Each month will have its own folder with daily entries:
 - [x] [Day 30 - 150. Evaluate Reverse Polish Notation (Medium)](./01-january/30-150-EvaluateReversePolishNotation.js)
 - [x] [Day 31 - 739. Daily Temperatures (Medium)](./01-january/31-739-DailyTemperatures.js)
 
+</details>
+
 ### [February](./02-february)
+
+<details>
 
 - [x] [Day 1 - 2966. Divide Array Into Arrays With Max Difference (Medium)](./02-february/01-2966-DivideArrayIntoArraysWithMaxDifference.js)
 - [x] [Day 2 - 1291. Sequential Digits (Medium)](./02-february/02-1291-SequentialDigits.js)
@@ -86,57 +92,75 @@ Each month will have its own folder with daily entries:
 - [x] [Day 28 - 513. Find Bottom Left Tree Value (Medium)](./02-february/)
 - [x] [Day 29 - 1609. Even Odd Tree (Medium)](./02-february/29-1609-EvenOddTree.js)
 
+</details>
+
 ### [March](./03-march)
 
+<details>
+
 - [x] [Day 1 - 2864. Maximum Odd Binary Number (Easy)](./03-march/01-2864-MaximumOddBinaryNumber.js)
+- [x] [Day 2 - 977. Squares of a Sorted Array (Easy)](./03-march/02-977-SquaresofaSortedArray.js)
+- [x] [Day 3 - 19. Remove Nth Node From End of List (Easy)](./03-march/03-19-RemoveNthNodeFromEndofList.js)
+- [x] [Day 4 - 948. Bag of Tokens (Medium)](./03-march/04-948-BagofTokens.js)
+- [x] [Day 5 -1750. Minimum Length of String After Deleting Similar Ends (Medium)](./03-march/05-1750-MinimumLengthofStringAfterDeletingSimilarEnds.js)
+- [x] [Day 6 - 141. Linked List Cycle (Easy)](./03-march/06-141LinkedListCycle.js)
+- [x] [Day 7 - 876. Middle of the Linked List (Easy)](./03-march/07-876-MiddleoftheLinkedList.js)
+- [x] [Day 8 - 3005. Count Elements With Maximum Frequency (Easy)](./03-march/08-3005-CountElementsWithMaximumFrequency.js)
+- [x] [Day 9 - 2540. Minimum Common Value (Easy)](./03-march/09-2540-MinimumCommonValue.js)
+- [x] [Day 10 - 349. Intersection of Two Arrays (Easy)](./03-march/10-349-IntersectionofTwoArrays.js)
+- [x] [Day 11 - 791. Custom Sort String (Medium)](./03-march/11-791-CustomSortString.js)
 - [] [Day ()](./03-march/)
+- [] [Day ()](./03-march/)
+
+</details>
 
 ## Entries 📅
 
-<summary>Expand to view daily challenges</summary>
 <details>
+
 <summary>January 🌨️</summary>
-<h2>January 🌨️</h2>
+
+<h3>January 🌨️</h3>
 
 #### Day 1: 455. Assign Cookies
 
-- [link](https://leetcode.com/problems/assign-cookies/)
+- [link](https://leetcode.com/problems/assign-cookies/description/)
 
 #### Day 2: 2610. Convert an Array Into a 2D Array With Conditions
 
-- [link](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)
+- [link](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)
 
 #### Day 3: 2125. Number of Laser Beams in a Bank
 
-- [link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)
+- [link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/)
 
 #### Day 4: 2870. Minimum Number of Operations to Make Array Empty
 
-- [link](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)
+- [link](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/)
 
 #### Day 5: 300. Longest Increasing Subsequence
 
-- [link](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [link](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 
 #### Day 6: 1235. Maximum Profit in Job Scheduling
 
-- [link](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+- [link](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)
 
 - Thoughts and approach
 
 #### Day 7: 446. Arithmetic Slices II - Subsequence
 
-- [link](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
+- [link](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)
 
 - Thoughts and approach
 
 #### Day 8: 938. Range Sum of BST
 
-- [link](https://leetcode.com/problems/range-sum-of-bst/)
+- [link](https://leetcode.com/problems/range-sum-of-bst/description/)
 
 #### Day 9: 872. Leaf-Similar Trees
 
-- [link](https://leetcode.com/problems/leaf-similar-trees/)
+- [link](https://leetcode.com/problems/leaf-similar-trees/description/)
 
 #### Day 10: 2385. Amount of Time for Binary Tree to Be Infected
 
@@ -162,7 +186,7 @@ Each month will have its own folder with daily entries:
 
 #### Day 15: 2225. Find Players With Zero or One Losses
 
-- [link](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
+- [link](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/)
 
 #### Day 16: 380. Insert Delete GetRandom O(1)
 
@@ -235,8 +259,10 @@ Each month will have its own folder with daily entries:
 </details>
 
 <details>
+
 <summary>February ❄️</summary>
-<h2>February ❄️</h2>
+
+<h3>February ❄️</h3>
 
 #### Day 1: 2966. Divide Array Into Arrays With Max Difference
 
@@ -256,7 +282,7 @@ Each month will have its own folder with daily entries:
 
 #### Day 5: 387. First Unique Character in a String
 
-- [link](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [link](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 
 #### Day 6: 49. Group Anagrams
 
@@ -360,31 +386,79 @@ Each month will have its own folder with daily entries:
 
 <details>
 <summary>March 🌷</summary>
-<h2> March 🌷 </h2>
+<h3> March 🌷 </h3>
 
-#### Day 2864. Maximum Odd Binary Number
+#### Day 01: 2864. Maximum Odd Binary Number
 
-- [link](https://leetcode.com/problems/maximum-odd-binary-number/)
+- [link](https://leetcode.com/problems/maximum-odd-binary-number/description/)
+
+#### Day 02: 977. Squares of a Sorted Array
+
+- [link](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
+
+#### Day 03: 19. Remove Nth Node From End of List
+
+- [link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+
+#### Day 04: 948. Bag of Tokens
+
+- [link](https://leetcode.com/problems/bag-of-tokens/description/)
+
+#### Day 05: 1750. Minimum Length of String After Deleting Similar Ends
+
+- [link](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description/)
+
+#### Day 06: 141. Linked List Cycle
+
+- [link](https://leetcode.com/problems/linked-list-cycle/description/)
+
+#### Day 07: 876. Middle of the Linked List
+
+- [link](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+
+#### Day 08: 3005. Count Elements With Maximum Frequency
+
+- [link](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/)
+
+#### Day 09: 2540. Minimum Common Value
+
+- [link](https://leetcode.com/problems/minimum-common-value/description/)
+
+#### Day 10: 349. Intersection of Two Arrays
+
+- [link](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+
+#### Day 11: 791. Custom Sort String
+
+- [link](https://leetcode.com/problems/custom-sort-string/description/)
+
+#### Day
+
+- [link]()
+
+#### Day
+
+- [link]()
 
 </details>
 
-<h2> April 🌼 </h2>
+<h3> April 🌼 </h3>
 
-<h2> May 🌸 </h2>
+<h3> May 🌸 </h3>
 
-<h2> June ☀️ </h2>
+<h3> June ☀️ </h3>
 
-<h2> July 🌞 </h2>
+<h3> July 🌞 </h3>
 
-<h2> August 🌻 </h2>
+<h3> August 🌻 </h3>
 
-<h2> September 🍂 </h2>
+<h3> September 🍂 </h3>
 
-<h2> October 🍁 </h2>
+<h3> October 🍁 </h3>
 
-<h2> November 🍃 </h2>
+<h3> November 🍃 </h3>
 
-<h2> December 🎄 </h2>
+<h3> December 🎄 </h3>
 
 ## Additional Resources 📚
 
