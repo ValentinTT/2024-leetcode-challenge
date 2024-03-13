@@ -110,6 +110,8 @@ Each month will have its own folder with daily entries:
 - [x] [Day 10 - 349. Intersection of Two Arrays (Easy)](./03-march/10-349-IntersectionofTwoArrays.js)
 - [x] [Day 11 - 791. Custom Sort String (Medium)](./03-march/11-791-CustomSortString.js)
 - [x] [Day 12 - 1171. Remove Zero Sum Consecutive Nodes from Linked List (Medium)](./03-march/12-1171-RemoveZeroSumConsecutiveNodesfromLinkedList.js)
+- [x] [Day 13 - 2485. Find the Pivot Integer (Easy)](./03-march/13-2485-FindthePivotInteger.js)
+- [] [Day ()](./03-march/)
 - [] [Day ()](./03-march/)
 
 </details>
@@ -435,6 +437,10 @@ Each month will have its own folder with daily entries:
 #### Day 12: 1171. Remove Zero Sum Consecutive Nodes from Linked List
 
 - [link](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description)
+
+#### Day 13: 2485. Find the Pivot Integer
+
+- [link](https://leetcode.com/problems/find-the-pivot-integer/description/)
 
 #### Day
 
