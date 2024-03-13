@@ -109,7 +109,7 @@ Each month will have its own folder with daily entries:
 - [x] [Day 9 - 2540. Minimum Common Value (Easy)](./03-march/09-2540-MinimumCommonValue.js)
 - [x] [Day 10 - 349. Intersection of Two Arrays (Easy)](./03-march/10-349-IntersectionofTwoArrays.js)
 - [x] [Day 11 - 791. Custom Sort String (Medium)](./03-march/11-791-CustomSortString.js)
-- [] [Day ()](./03-march/)
+- [x] [Day 12 - 1171. Remove Zero Sum Consecutive Nodes from Linked List (Medium)](./03-march/12-1171-RemoveZeroSumConsecutiveNodesfromLinkedList.js)
 - [] [Day ()](./03-march/)
 
 </details>
@@ -432,9 +432,9 @@ Each month will have its own folder with daily entries:
 
 - [link](https://leetcode.com/problems/custom-sort-string/description/)
 
-#### Day
+#### Day 12: 1171. Remove Zero Sum Consecutive Nodes from Linked List
 
-- [link]()
+- [link](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description)
 
 #### Day
 
