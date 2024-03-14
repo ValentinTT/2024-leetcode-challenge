@@ -111,7 +111,7 @@ Each month will have its own folder with daily entries:
 - [x] [Day 11 - 791. Custom Sort String (Medium)](./03-march/11-791-CustomSortString.js)
 - [x] [Day 12 - 1171. Remove Zero Sum Consecutive Nodes from Linked List (Medium)](./03-march/12-1171-RemoveZeroSumConsecutiveNodesfromLinkedList.js)
 - [x] [Day 13 - 2485. Find the Pivot Integer (Easy)](./03-march/13-2485-FindthePivotInteger.js)
-- [] [Day ()](./03-march/)
+- [x] [Day 14 - 930. Binary Subarrays With Sum (Medium)](./03-march/14-930-BinarySubarraysWithSum.js)
 - [] [Day ()](./03-march/)
 
 </details>
@@ -441,6 +441,10 @@ Each month will have its own folder with daily entries:
 #### Day 13: 2485. Find the Pivot Integer
 
 - [link](https://leetcode.com/problems/find-the-pivot-integer/description/)
+
+#### Day 14: 930. Binary Subarrays With Sum
+
+- [link](https://leetcode.com/problems/binary-subarrays-with-sum/description/)
 
 #### Day
 
