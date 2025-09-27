@@ -112,6 +112,11 @@ Each month will have its own folder with daily entries:
 - [x] [Day 12 - 1171. Remove Zero Sum Consecutive Nodes from Linked List (Medium)](./03-march/12-1171-RemoveZeroSumConsecutiveNodesfromLinkedList.js)
 - [x] [Day 13 - 2485. Find the Pivot Integer (Easy)](./03-march/13-2485-FindthePivotInteger.js)
 - [x] [Day 14 - 930. Binary Subarrays With Sum (Medium)](./03-march/14-930-BinarySubarraysWithSum.js)
+- [x] [Day 15 - 238. Product of Array Except Self (Medium)](./03-march/15-238-ProductofArrayExceptSelf.js)
+- [x] [Day 16 - 525. Contiguous Array (Medium)](./03-march/16-525-ContiguousArray.js)
+- [x] [Day 17 - 57. Insert Interval (Medium)](./03-march/17-57-InsertInterval.js)
+- [x] [Day 18 - 452. Minimum Number of Arrows to Burst Balloons (Medium)](./03-march/18-452-MinimumNumberofArrowstoBurstBalloons.js)
+- [] [Day ()](./03-march/)
 - [] [Day ()](./03-march/)
 
 </details>
@@ -445,6 +450,39 @@ Each month will have its own folder with daily entries:
 #### Day 14: 930. Binary Subarrays With Sum
 
 - [link](https://leetcode.com/problems/binary-subarrays-with-sum/description/)
+
+- Thoughts and approach
+  I tried to apply the sliding windows, it seemed the most natural approach, but it didn't work out. I applied the brute force way, and once I solved it I started to read other solutions. I found [this explanation](https://leetcode.com/problems/binary-subarrays-with-sum/solutions/4874116/javascript-professional-approach-and-in-depth-explanation) which maked sense after a while. I keep learning.
+
+#### Day 15: 238. Product of Array Except Self
+
+- [link]()
+
+#### Day 16: 525. Contiguous Array
+
+- [link]()
+
+#### Day 17: 57. Insert Interval
+
+- [link]()
+
+#### Day 18: 452. Minimum Number of Arrows to Burst Balloons
+
+- [link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
+- Thoughts and approach
+
+  I struggle a bit solving this problem, and interval problems in general. I find out about [this resource](https://neetcode.io/roadmap) with a section about Interval problems with videos and code. I copy the list of elements in case it gets deleted:
+
+  - Insert Interval
+  - Merge Intervals
+  - Non Overlapping Intervals
+  - Meeting Rooms
+  - Meeting Rooms II
+  - Minimum Interval to Include Each Query
+
+#### Day
+
+- [link]()
 
 #### Day
 
